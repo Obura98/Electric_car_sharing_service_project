@@ -1,80 +1,54 @@
-*Instructions: Click on the raw button in the upper right hand corner of this box.  Copy and paste the template into the README.md document on your github.  Fill in the titles, information and links where prompted! Feel free to stray a bit to suit your project but try to stick to the format as closely as possible for consistency across DSWG projects.*
+# ELECTRIC CAR USAGE OVER TIME IN ELECTRIC CAR-SHARING SERVICE COMPANY
+Electric Car-Sharing Service Company is a company that deals with car renting and is ideal for customers who want to rent the car for short periods of time. As a data scientist, I have been assigned the task of processing station data to understand the electric car usage over time by understanding the most popular hour of the day for picking up a shared electric car(Bluecar) in the city of Paris over the month of April 2018.
 
-# Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to process station's data to understand the electric car usage over time by understanding the most popular hour of the day for picking up a shared electric car(Bluecar) in the city of Paris over the month of April 2018.
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
 * Data Visualization
-* Predictive Modeling
-* etc.
+* Eploratory Data Analysis
 
-### Technologies
-* R
+### Technologies Used
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+Electric Car-Sharing Service Company is a company that deals with car renting and is ideal for customers who want to rent the car for short periods of time. As a data scientist, I have been assigned the task of processing station data to understand the electric car usage over time by understanding the most popular hour of the day for picking up a shared electric car(Bluecar) in the city of Paris over the month of April 2018.
+* The objectives of this analysis are:
+* Identify the most popular hour of the day for picking up a shared electric car(Bluecar) in the city of Paris over the month of April 2018.
+* Investigate the most popular hour for returning cars
+* Examine the most popular station overall
+* Identify the most popular station at the most picking hour
+* Determine the postal code that is the most popular for picking up Blue cars and investigate whether the most popular station belongs to that postal code  overally and the most picking hour
+## Dataset Used
+* Autolib_dataset(2).csv. (http://bit.ly/autolib_dataset)
+
+
 
 ## Needs of this project
 
-- frontend developers
-- data exploration/descriptive statistics
+- data exploration
 - data processing/cleaning
 - statistical modeling
 - writeup/reporting
-- etc. (be as specific as possible)
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
+2. Raw Data is being kept [https://github.com/Obura98/Electric_car_sharing_service_project.git](Electric_car_sharing_service_project) within this repo.
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* [jupyter Notebooks](link)
 
 
-## Contributing DSWG Members
+## Contributing Project Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
+**Team Leads (Contacts) : [Obura Robinson](https://github.com/Obura98/Electric_car_sharing_service_project.git[Obura98]**
 
-#### Other Members:
-
-|Name     |  Slack Handle   |
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Feel free to contact me with any questions or if you are interested in contributing!
